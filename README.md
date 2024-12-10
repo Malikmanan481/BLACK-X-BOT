@@ -1,10 +1,10 @@
-![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+PRINCE+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
+![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+BLACK-X+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="PRINCE" 
+            alt="BLACK-X" 
             width="700" 
             height="400" 
             src="https://i.imgur.com/iI086tX.jpeg" 
@@ -37,7 +37,7 @@
     </a>
 </div>
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">BLACK-X-𝑴𝑫-𝑩𝑶𝑻</h1>
 
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -52,7 +52,7 @@
 </div>
 <br>
 
-### 💻𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗜𝗡𝗖𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
+### 💻𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗚𝗘𝗧 BLACK-X 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
 [![DATABASE_URL](https://img.shields.io/badge/DATABASE_URL-blue?style=for-the-badge&logo=github)](https://github.com/DASTAGHIR/PRINCE-DATABASE-URL)
 
 <br>
